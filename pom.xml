@@ -11,6 +11,7 @@
   <modules>
     <module>mq</module>
     <module>io</module>
+      <module>thread</module>
   </modules>
 
   <name>notes</name>
