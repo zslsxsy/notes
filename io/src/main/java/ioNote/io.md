@@ -14,3 +14,11 @@ IO流                             StringWriter           FilterWriter    FileWri
                     
                                   ByteArrayOutputStream
                     OutputStream  fileOutputStream
+                    
+                    
+                    字节流：filterInputStream    filterOutputStream
+                    DataInputStream  DataOutputStream
+                    
+                    
+        Java的IO的装饰器模式
+        BufferedInputStream
